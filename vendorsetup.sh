@@ -14,7 +14,8 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-#
+
+export FOX_REMOVE_ZIP_BINARY=1
 
 add_lunch_combo omni_A37f-userdebug
 add_lunch_combo omni_A37f-eng
