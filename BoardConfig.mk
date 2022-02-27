@@ -78,3 +78,7 @@ TW_USE_TOOLBOX := true
 
 # Encryption support
 TW_INCLUDE_CRYPTO := true
+
+## Debug
+TWRP_INCLUDE_LOGCAT := true
+TARGET_USES_LOGD := true
